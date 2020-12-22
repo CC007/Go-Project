@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="nl.coolcat007.netbeansmodules.goprojecttype">
+    <module_version install_time="1608630800915" last="true" origin="installer" specification_version="1.0">
+        <file crc="794260943" name="config/Modules/nl-coolcat007-netbeansmodules-goprojecttype.xml"/>
+        <file crc="238830465" name="modules/nl-coolcat007-netbeansmodules-goprojecttype.jar"/>
+    </module_version>
+</module>

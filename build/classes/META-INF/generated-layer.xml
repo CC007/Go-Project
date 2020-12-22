@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Projects">
+        <folder name="nl-coolccat007-netbeansmodules-goprojecttype">
+            <folder name="Nodes">
+                <file name="nl-coolcat007-netbeansmodules-goprojecttype-nodes-GoNodeFactory.instance">
+                    <!--nl.coolcat007.netbeansmodules.goprojecttype.nodes.GoNodeFactory-->
+                    <attr intvalue="10" name="position"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="Go">
+                <file name="nl-coolcat007-netbeansmodules-goprojecttype-templates-libtemplate-LibProjectTemplateWizardIterator">
+                    <!--nl.coolcat007.netbeansmodules.goprojecttype.templates.libtemplate.LibProjectTemplateWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr intvalue="2" name="position"/>
+                    <attr bundlevalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.libtemplate.Bundle#LibProjectTemplate_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="nl/coolcat007/netbeansmodules/goprojecttype/templates/libtemplate/LibProjectTemplate.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/nl/coolcat007/netbeansmodules/goprojecttype/templates/libtemplate/LibProjectTemplateDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.libtemplate.LibProjectTemplateWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+                <file name="nl-coolcat007-netbeansmodules-goprojecttype-templates-maintemplate-MainProjectTemplateWizardIterator">
+                    <!--nl.coolcat007.netbeansmodules.goprojecttype.templates.maintemplate.MainProjectTemplateWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr intvalue="1" name="position"/>
+                    <attr bundlevalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.maintemplate.Bundle#MainProjectTemplate_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="nl/coolcat007/netbeansmodules/goprojecttype/templates/maintemplate/MainProjectTemplate.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/nl/coolcat007/netbeansmodules/goprojecttype/templates/maintemplate/MainProjectTemplateDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.maintemplate.MainProjectTemplateWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+            <file name="LibProjectTemplateProject.zip" url="nbresloc:/nl/coolcat007/netbeansmodules/goprojecttype/templates/libtemplate/LibProjectTemplateProject.zip">
+                    <!--nl.coolcat007.netbeansmodules.goprojecttype.templates.libtemplate.LibProjectTemplateWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr intvalue="2" name="position"/>
+                    <attr bundlevalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.libtemplate.Bundle#LibProjectTemplate_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="nl/coolcat007/netbeansmodules/goprojecttype/templates/libtemplate/LibProjectTemplate.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/nl/coolcat007/netbeansmodules/goprojecttype/templates/libtemplate/LibProjectTemplateDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.libtemplate.LibProjectTemplateWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+                <file name="MainProjectTemplateProject.zip" url="nbresloc:/nl/coolcat007/netbeansmodules/goprojecttype/templates/maintemplate/MainProjectTemplateProject.zip">
+                    <!--nl.coolcat007.netbeansmodules.goprojecttype.templates.maintemplate.MainProjectTemplateWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr intvalue="1" name="position"/>
+                    <attr bundlevalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.maintemplate.Bundle#MainProjectTemplate_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="nl/coolcat007/netbeansmodules/goprojecttype/templates/maintemplate/MainProjectTemplate.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/nl/coolcat007/netbeansmodules/goprojecttype/templates/maintemplate/MainProjectTemplateDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="nl.coolcat007.netbeansmodules.goprojecttype.templates.maintemplate.MainProjectTemplateWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>
